@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\bin\Debug\JKS_2020.exe.config
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\bin\Debug\JKS_2020.exe
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\bin\Debug\JKS_2020.pdb
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.Properties.Resources.resources
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.exe
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.pdb
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.DetectPage.resources
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.MainWindow.resources
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.DetectMain.resources
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.ProgressPage.resources
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.DetectForAll.resources
+C:\Users\lenovo\source\repos\JKS_2020\JKS_2020\obj\Debug\JKS_2020.DetectForDetail.resources

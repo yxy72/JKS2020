@@ -1,0 +1,17 @@
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.csprojAssemblyReference.cache
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.DetectForAll.resources
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.DetectForDetail.resources
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.DetectMain.resources
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.DetectPage.resources
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.MainWindow.resources
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.ProgressPage.resources
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.Properties.Resources.resources
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.csproj.GenerateResource.cache
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\bin\Release\JKS_2020_NEW.exe.config
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\bin\Release\JKS_2020_NEW.exe
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\bin\Release\JKS_2020_NEW.pdb
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\bin\Release\Newtonsoft.Json.dll
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\bin\Release\Newtonsoft.Json.xml
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.csproj.CopyComplete
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.exe
+D:\C#project\JKS2020_NEW\JKS_2020_NEW\obj\Release\JKS_2020_NEW.pdb
