@@ -1,5 +1,7 @@
 ### Maya 渲染
 ![111](https://github.com/user-attachments/assets/11e4de58-f5e7-4952-af9d-5a2a46a32b74)
+![image](https://github.com/user-attachments/assets/923a69f7-f975-4ab0-a9cf-9bf6c4eed343)
+
 ![000](https://github.com/user-attachments/assets/938f7968-2d69-424d-b036-54b091cc5fc5)
 
 ### C# Winform 应用
